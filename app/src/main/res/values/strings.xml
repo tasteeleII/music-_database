@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Music Database</string>
+    <string-array name="states">
+        <item>ABBA</item>
+        <item>BabyTron</item>
+        <item>Saint or Sinners</item>
+        <item>The Acid</item>
+        <item>Drake</item>
+        <item>Lil Wayne</item>
+        <item>Nigo</item>
+        <item>Lil Durk</item>
+        <item>Pop Smoke</item>
+        <item>Danny Towers</item>
+        <item>Baby Smoove</item>
+        <item>Oasis</item>
+        <item>Eagles</item>
+        <item>Michael Katana</item>
+        <item>Cream</item>
+        <item>Finesse2tymes</item>
+        <item>Kodak Black</item>
+        <item>Real Boston Richey</item>
+        <item>Otep</item>
+        <item>Childish Gambino</item>
+        <item>Lil Yachty</item>
+        <item>LPB Poody</item>
+        <item> 42 Dugg</item>
+        <item>LF System</item>
+        <item>Peezy</item>
+        <item>Metallica</item>
+        <item>Fivio Foreign</item>
+        <item>Michael Jackson</item>
+        <item>Artic Monkeys</item>
+        <item>Dayglow</item>
+        <item>Cults</item>
+        <item>Kanye West</item>
+        <item>Nirvana</item>
+        <item>Mac DeMarco</item>
+        <item>Hotel Ugly</item>
+        <item>Tame Impala</item>
+        <item>Mac Miller</item>
+        <item>Inner Wave</item>
+        <item>Joji</item>
+        <item>Paul McCartney</item>
+        <item>Yot Club</item>
+        <item>Thundercat</item>
+        <item>Guns N Roses</item>
+        <item>System of a Down</item>
+        <item>Blue Oyster Cult</item>
+        <item>The Psychedelic Furs</item>
+        <item>MGMT</item>
+        <item>TOTO</item>
+        <item>Tears for Fears</item>
+        <item>Mtume</item>
+    </string-array>
+    <string-array name="platform">
+    <item>Spotify</item>
+    <item>Apple Music</item>
+    <item>Pandora</item>
+    <item>Amazon Music</item>
+    <item>Tidal</item>
+        <item>Youtube Music</item>
+        <item>Digital Purchase</item>
+        <item>Other</item>
+    </string-array>
+</resources>
