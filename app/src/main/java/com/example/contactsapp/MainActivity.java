@@ -154,8 +154,6 @@ public class MainActivity extends AppCompatActivity {
         });
         recyclerView.setAdapter(adapter);
         //recyclerView.setAdapter(adapter2);
-        //recyclerView.setAdapter(adapter3);
-
 
 
 
